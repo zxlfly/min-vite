@@ -1,0 +1,25 @@
+{
+  "name": "min-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxlfly/min-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxlfly/min-vite/issues"
+  },
+  "homepage": "https://github.com/zxlfly/min-vite#readme",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.2.6",
+    "koa": "^2.13.1",
+    "vue": "^3.2.6"
+  }
+}
