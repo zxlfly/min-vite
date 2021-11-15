@@ -14,4 +14,4 @@
   - 转换为js
     - 添加一个style标签
 
-# [基于vite的完整工程化](https://github.com/zxlfly/ComponentLibraryEngineering)
+# [基于vite的完整工程化](https://github.com/zxlfly/mini-ui)
