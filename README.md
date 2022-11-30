@@ -15,3 +15,6 @@
     - 添加一个style标签
 
 # [基于vite的完整工程化](https://github.com/zxlfly/mini-ui)
+
+## rollup
+默认只支持esm
